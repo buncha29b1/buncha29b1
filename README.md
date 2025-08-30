@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1 align="center"> ## Hi there 👋, I'm Khoi Van </h1>
 
 <!--
 **buncha29b1/buncha29b1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
