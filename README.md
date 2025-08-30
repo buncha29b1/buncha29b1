@@ -1,16 +1,27 @@
-<h1 align="center"> ## Hi there 👋, I'm Khoi Van </h1>
+<h1 align="center"> Hi there 👋, I'm Khoi Van </h1>
+<h3 align="center">A passionate Data Analyst/Data Scientist from Vietnam 🇻🇳</h3>
 
-<!--
-**buncha29b1/buncha29b1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me:
 
-Here are some ideas to get you started:
+- 📚 I'm currently studying Data Analytics and Computer Science at [Denison University](https://denison.edu/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm currently learning **Statistical Modeling**, **Descriptive Analysis** and **Predictive Modeling**.
+
+- 💻 I'm looking forward to a career in **Data Analytics/Data Science**.
+
+- 📫 Please reach out to me via **van_k1@denison.edu** if you want to collaborate with me in any interesting projects. I'm open to projects related to data!
+
+- Pronouns: He/Him
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/khoi-van-6b59a7274/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khoi-van-6b59a7274" height="30" width="40" /></a>
+<a href="https://www.instagram.com/buncha.29b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="buncha.29b1" height="30" width="40" /></a>
+</p>
+
+### Tools and Languages I use:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,visualstudio,py,cpp,r,sklearn,mysql" />
+  </a>
+</p>
